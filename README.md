@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Hackerkid001
+- 👋 Hi, I’m Alwin
 - 👀 I’m interested in learning to hack and program
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript
+
 
 <!---
 Hackerkid001/Hackerkid001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
